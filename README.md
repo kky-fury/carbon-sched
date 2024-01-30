@@ -140,6 +140,26 @@ Binding Latency:
 ### Response time
 ![Response Time](/Images/response-time.png "Response Time")
 
+## Citation
+If you use GreenCourier in your work, please cite our paper:
+
+```
+@inproceedings{greencourier,
+  author = {Chadha, Mohak and Subramanian, Thandayuthapani and Arima, Eishi and Gerndt, Michael and Schulz, Martin and Abboud, Osama},
+  title = {GreenCourier: Carbon-Aware Scheduling for Serverless Functions},
+  year = {2023},
+  isbn = {9798400704550},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3631295.3631396},
+  doi = {10.1145/3631295.3631396},
+  booktitle = {Proceedings of the 9th International Workshop on Serverless Computing},
+  pages = {18–23},
+  numpages = {6},
+  keywords = {Sustainable Serverless Computing, Serverless Computing, Function-as-a-Service, Carbon Efficiency},
+  series = {WoSC '23}
+}
+```
 
 ## Contact
 Thandayuthapani Subramanian [:e-mail:](thandayuthapani.subramanian@tum.de) [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/thandayuthapani/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/thandayuthapani)  
